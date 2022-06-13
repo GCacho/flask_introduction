@@ -11,5 +11,9 @@
     - export FLASK_APP=main.py
     - echo $FLASK_APP
 
+## Iniciar el debuger de flask
+    - export FLASK_ENV=development
+    - echo $FLASK_ENV
+
 ## Correr el servidor de Flask
     - flask run
