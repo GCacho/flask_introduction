@@ -35,4 +35,4 @@
 - google cloud
     - Instalar en wsl desde la pagina oficial de google.
         - gcloud init --no-browser -> para correr gcloud desde wsl
-        - gcloud auth application-default login --no-browser -> para conectar la aplicacion
+        - gcloud auth application-default login --no-launch-browser -> para conectar la aplicacion
