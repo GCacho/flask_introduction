@@ -17,3 +17,14 @@
 
 ## Correr el servidor de Flask
     - flask run
+
+### Notas ###
+
+- Macro: 
+    -Son un conjunto de comandos que se invocan con una palabra clave,
+    opcionalmente seguidas de parámetros que se utilizan como código 
+    literal. Los Macros son manejados por el compilador y no por el 
+    ejecutable compilado.
+    -Los macros facilitan la actualización y mantenimiento de las 
+    aplicaciones debido a que su re-utilización minimiza la cantidad 
+    de código escrito necesario para escribir un programa.
