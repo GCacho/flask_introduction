@@ -28,3 +28,6 @@
     -Los macros facilitan la actualización y mantenimiento de las 
     aplicaciones debido a que su re-utilización minimiza la cantidad 
     de código escrito necesario para escribir un programa.
+
+- Tests
+    - flask test
