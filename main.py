@@ -1,10 +1,15 @@
 #Flask
+from ensurepip import bootstrap
 from multiprocessing import context
 from flask import Flask
 from flask import request
 from flask import redirect, make_response, render_template
 
+from flask_bootstrap import Bootstrap
+
 app = Flask(__name__)
+bootstrap = Bootstrap(app)
+
 
 todos = ['Comprar Café', 'Enviar Solicitud de Compra', 'Entregar video a productor']
 
