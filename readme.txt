@@ -34,5 +34,8 @@
 
 - google cloud
     - Instalar en wsl desde la pagina oficial de google.
+        - Para Windows dirígete a https://cloud.google.com/sdk/docs/quickstart-windows
+        - Para MacOS dirígete a link https://cloud.google.com/sdk/docs/quickstart-macos
+        - Para Linux dirígete a https://cloud.google.com/sdk/docs/quickstart-linux
         - gcloud init --no-browser -> para correr gcloud desde wsl
         - gcloud auth application-default login --no-launch-browser -> para conectar la aplicacion
