@@ -3,6 +3,5 @@ html * {
 }
 
 img {
-    max-width: 200px;
-    max-height: 240px;
+    max-width: 30px;
 }
