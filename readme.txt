@@ -16,7 +16,7 @@
     - echo $FLASK_ENV
 
 ## Correr el servidor de Flask
-    - flask run
+    - flask run -> Si no funciona seguir los pasos hasta el final y volver a intentar
 
 ### Notas ###
 

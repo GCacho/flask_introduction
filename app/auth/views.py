@@ -34,7 +34,7 @@ def login():
 
                 redirect(url_for('hello'))
             else:
-                flash('La informaición no coincide')
+                flash('La información no coincide')
         else:
             flash('El usario no existe')
 
